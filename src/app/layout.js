@@ -31,9 +31,11 @@ export default function RootLayout({ children }) {
           <div>
           {children}
           <div>
-            <New />
+            
           </div>
+          
           </div>
+          <New />
         </div>
     
       </body>
